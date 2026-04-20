@@ -1,0 +1,2 @@
+# Exploring-Agricultural-Production-Trends-in-Sri-Lanka
+Here’s a clean GitHub description within ~350 characters:  **Description:** A data science project analyzing Sri Lanka’s agricultural trends using Logistic Regression and Association Rule Mining. Built with R and Shiny, it includes an interactive dashboard using FAOSTAT data to uncover patterns, predict production outcomes, and visualize insights.
